@@ -13,4 +13,4 @@ PhpMyAdmin: http://127.0.0.1:3333 (http://localhost:3333)
 
 ## Options
 
-All options in file .env
+All options in file .sample.env (rename to .env)
