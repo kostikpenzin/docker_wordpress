@@ -3,7 +3,7 @@
 
 ## Getting started
 
-docker-compose up in clone folder
+Run 'docker-compose up' in clone folder
 
 ## Open apps
 
